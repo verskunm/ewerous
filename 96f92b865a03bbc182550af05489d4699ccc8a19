@@ -1,0 +1,9 @@
+
+        window["dataLayer"] = window["dataLayer"] || [];
+        window["dataLayer"].push({
+             pageType: "Home",
+             analyticsPagePath: "/",
+             dataType: "0",
+        });
+
+     
